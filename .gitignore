@@ -14,3 +14,6 @@ examples/SemaObjC*.txt
 
 # wasm
 *.wasm
+
+# Swift Package Manager
+.build
